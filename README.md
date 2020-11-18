@@ -1,5 +1,5 @@
 # Dont_touch_MASK
-Detect whether target touched it's mask / Pytorch, Opencv
+Detect whether target touched it's mask
 
 # Example
 irregular - he touched his mask
@@ -14,8 +14,8 @@ regular - he didn't touch his mask
 
 CUDA 11
 
-PyTorch Cudaversion - 11
-  TorchVision
+PyTorch_Cudaversion - 11
+   TorchVision
   
 Numpy
 
