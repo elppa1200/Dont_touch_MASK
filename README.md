@@ -14,7 +14,7 @@ regular - he didn't touch his mask
 
 CUDA 11
 
-PyTorch_Cudaversion - 11
+PyTorch_Cudaversion - 11  
    TorchVision
   
 Numpy
